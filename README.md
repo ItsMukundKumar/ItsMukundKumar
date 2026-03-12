@@ -136,6 +136,6 @@ I enjoy transforming **raw data into meaningful insights** and building practica
 
 </div>
 
----
-
 ⭐ **Exploring Machine Learning one project at a time.**
+
+---
