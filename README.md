@@ -55,7 +55,6 @@ I enjoy transforming **raw data into meaningful insights** and building practica
 
 ## AI / Deep Learning
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras)
 
 ---
