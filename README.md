@@ -37,6 +37,9 @@ I enjoy transforming **raw data into meaningful insights** and building practica
 
 ---
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=ItsMukundKumar&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
 # 🛠 Tech Stack
 
 ## Programming Languages
